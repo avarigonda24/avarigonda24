@@ -1,5 +1,5 @@
 ### Hi there 👋🏽
-My name is Apurva. I am a rising senior.
+My name is Apurva.
 
 #### I have experience in the following:
 - HTML/CSS + Bootstrap
