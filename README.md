@@ -7,4 +7,4 @@ I'm a junior at MIT double-majoring in Mathematics (Course 18) and Computation a
 #### Extracurricular Projects
 - Vent
 #### Hackathon Projects
-- NeuroTrack (HackMIT 2024)
+- [NeuroTrack (HackMIT 2024)](https://github.com/radiaw/hackmit24)
