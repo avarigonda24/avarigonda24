@@ -1,5 +1,6 @@
 ### Hi there 👋🏽 I'm Apurva
-I'm a junior at MIT double-majoring in Mathematics (Course 18) and Computation and Cognition (Course 6-9). My research and coursework focus on theoretical computer science and computational cognitive science, where I explore how mathematical models can capture the way people think.
+I'm a junior at MIT double-majoring in Mathematics (Course 18) and Computation and Cognition (Course 6-9). My research and coursework focus on theoretical computer science and computational cognitive science, where I explore how mathematical models can capture the way people think.\\
+<kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>Julia</kbd>
 #### Undergraduate Research
 - [jsPsych Canvas Plug-in](https://github.com/avarigonda24/canvas-plugin)
 #### Course Projects
