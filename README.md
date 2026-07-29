@@ -4,7 +4,9 @@ I'm a junior at MIT double-majoring in Mathematics (Course 18) and Computation a
 - [jsPsych Canvas Plug-in](https://github.com/avarigonda24/canvas-plugin)
 #### Course Projects
 - Project Lab in Mathematics 2025
-#### Extracurricular Projects
+#### Design for America Projects
 - Vent
+#### Personal Projects
+- [Mini Data Science/Quantitative Research Projects](https://github.com/avarigonda24/data-science-mini-projects/)
 #### Hackathon Projects
 - [NeuroTrack (HackMIT 2024)](https://github.com/radiaw/hackmit24)
